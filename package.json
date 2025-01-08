@@ -1,0 +1,21 @@
+{
+    "name": "telebot_payment",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "dev": "nodemon index.js",
+        "start": "node index.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "@ngrok/ngrok": "^1.2.0",
+        "axios": "^1.6.8",
+        "dotenv": "^16.4.5",
+        "express": "^4.19.2",
+        "morgan": "^1.10.0",
+        "nodemon": "^3.1.0"
+    }
+}
